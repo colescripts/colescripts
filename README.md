@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [atari-classics](https://github.com/colescripts/atari-classics.git)
 
-- 🌱 I’m currently learning **TypeScript with React (Vite)**
-
 - 📫 How to reach me **imcolemay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

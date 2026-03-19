@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cole</h1>
-<h3 align="center">A passionate backend developer from Texas</h3>
+
 
 - 📫 How to reach me **imcolemay@gmail.com**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cole</h1>
+<h1 align="center"> i like math </h1>
 
 
 - 📫 How to reach me **imcolemay@gmail.com**
